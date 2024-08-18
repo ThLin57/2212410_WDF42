@@ -1,0 +1,10 @@
+C:\Users\LUAN\source\repos\2212410_WDF41\bin\Debug\2212410_WDF41.exe.config
+C:\Users\LUAN\source\repos\2212410_WDF41\bin\Debug\2212410_WDF41.exe
+C:\Users\LUAN\source\repos\2212410_WDF41\bin\Debug\2212410_WDF41.pdb
+C:\Users\LUAN\source\repos\2212410_WDF41\obj\Debug\2212410_WDF41.csproj.AssemblyReference.cache
+C:\Users\LUAN\source\repos\2212410_WDF41\obj\Debug\_2212410_WDF41.frmSubmit.resources
+C:\Users\LUAN\source\repos\2212410_WDF41\obj\Debug\_2212410_WDF41.Properties.Resources.resources
+C:\Users\LUAN\source\repos\2212410_WDF41\obj\Debug\2212410_WDF41.csproj.GenerateResource.cache
+C:\Users\LUAN\source\repos\2212410_WDF41\obj\Debug\2212410_WDF41.csproj.CoreCompileInputs.cache
+C:\Users\LUAN\source\repos\2212410_WDF41\obj\Debug\2212410_WDF41.exe
+C:\Users\LUAN\source\repos\2212410_WDF41\obj\Debug\2212410_WDF41.pdb
